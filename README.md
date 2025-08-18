@@ -7,4 +7,4 @@ I am having 6 Years of experience as a QA Engineer in the software industry with
 I have no prior experience in Cybersecurity. I want an entry-level cybersecurity position that can help to improve my analyzing & solving complex tasks skills. I am also interesting to safeguarding the systems, 
 applications, data & networks from the security threats & risks. Definitely I can contribute my skills to the security team in order to mitigate the risks after completing my Google cybersercurity certification. 
 
-Technical Skills : Java, Selenium, SQL
+Technical Skills : Java, Selenium WebDriver, TestNG, SQL, Jenkins, JIRA, Rally, qTest, Postman API
